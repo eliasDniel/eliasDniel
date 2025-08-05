@@ -1,5 +1,5 @@
 <!--Banner-->
-![Kiran1689 Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)
+![Kiran1689 Banner Image](https://github.com/eliasDniel)
 
 <!--Night Owl image-->
 <div>
@@ -79,6 +79,6 @@ Soy un estudiante de Ingeniería en Software con especialización en desarrollo 
 
 ------
 
-Credit: [Kiran1689](https://github.com/Kiran1689) | Personalizado por [Elias Ramos](https://github.com/tuusuario)
+Personalizado por [Elias Ramos](https://github.com/tuusuario)
 
 Last Edited on: 04/08/2025
